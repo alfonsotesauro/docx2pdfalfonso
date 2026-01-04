@@ -21,7 +21,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2026. Licensed under LGPL.</string>
+	<string>Copyright © 2026 Alfonso Tesauro. Uses LibreOffice (LGPL).</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
